@@ -1,0 +1,5 @@
+Step,Function
+Create file,createFile(filePath)
+Write to file,"writeToFile(filePath, content)"
+Read file,readFile(filePath)
+Delete file,deleteFile(filePath)

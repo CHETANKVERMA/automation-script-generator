@@ -1,0 +1,4 @@
+Step,Function
+Send email,"sendEmail(to, subject, body)"
+Check inbox,checkInbox()
+Delete email,deleteEmail(emailID)

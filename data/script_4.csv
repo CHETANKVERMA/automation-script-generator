@@ -1,0 +1,4 @@
+Step,Function
+Click element,clickElement(elementID)
+Enter text,"enterText(inputID, text)"
+Submit form,submitForm(formID)

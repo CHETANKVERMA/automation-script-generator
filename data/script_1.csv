@@ -1,0 +1,5 @@
+Step,Function
+Open webpage,openWebPage(url)
+Parse HTML,parseHTML(html)
+Extract data,extractDataFromHTML(selector)
+Save data,saveDataToCSV(fileName)

@@ -1,0 +1,3 @@
+Step,Function
+Capture screenshot,captureScreenshot(filePath)
+Save screenshot,saveScreenshot(filePath)

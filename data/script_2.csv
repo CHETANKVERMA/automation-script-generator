@@ -1,0 +1,4 @@
+Step,Function
+Send GET request,sendGetRequest(url)
+Send POST request,"sendPostRequest(url, data)"
+Validate response,validateResponse(response)

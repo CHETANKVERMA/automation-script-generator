@@ -1,0 +1,4 @@
+Step,Function
+Connect to database,connectToDatabase(dbUrl)
+Query database,queryDatabase(query)
+Store result,storeQueryResult(fileName)

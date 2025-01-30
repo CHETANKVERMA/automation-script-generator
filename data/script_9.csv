@@ -1,0 +1,4 @@
+Step,Function
+Generate report,generateReport(data)
+Save report,saveReport(fileName)
+Send report,sendReport(recipient)

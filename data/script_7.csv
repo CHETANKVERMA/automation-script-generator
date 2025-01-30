@@ -1,0 +1,4 @@
+Step,Function
+Login,"login(username, password)"
+Navigate to dashboard,navigateToDashboard()
+Logout,logout()
