@@ -1,5 +1,6 @@
 Step,Function
-Send GET request,logout()
-Validate response,logout()
-Parse JSON response,logout()
-Store query result,logout()
+Login,"login(username, password)"
+Enter text,logout()
+Verify message,verifyMessage(expectedMessage)
+Submit form,submitForm()
+Logout,logout()

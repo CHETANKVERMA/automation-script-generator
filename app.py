@@ -15,5 +15,4 @@ def generate_script():
         output_file = save_output_script(user_steps)  # Your ML script generation logic
         return send_file(output_file, as_attachment=True)  # Send the file for download
 
-if __name__ == "__main__":
-    app.run(debug=True)
+# No app.run here, we use Gunicorn to serve the app in production
